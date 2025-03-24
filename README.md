@@ -32,7 +32,7 @@ python overseer.py --help
 ### Example Commands
 ```sh
 python overseer.py username -u someuser
-python overseer.py whois -d example.com
+python overseer.py domain -d example.com
 python overseer.py phone -n +123456789
 ```
 
