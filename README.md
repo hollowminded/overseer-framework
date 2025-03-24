@@ -18,7 +18,7 @@
 
 ### Installation Steps
 ```sh
-git clone https://github.com/yourusername/overseer-framework.git
+git clone https://github.com/hollowminded/overseer-framework.git
 cd overseer-framework
 pip install -r requirements.txt
 ```
